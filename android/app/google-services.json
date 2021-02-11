@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567405767338",
+    "project_id": "datasaver-9c63d",
+    "storage_bucket": "datasaver-9c63d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567405767338:android:304d88d56463b60154fed3",
+        "android_client_info": {
+          "package_name": "com.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567405767338-kbr2c6vmbb88440g96fsn0kvvrfpqtq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kBMRMY4ilXigtIM1KSe3ATSOlYWpafU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567405767338-kbr2c6vmbb88440g96fsn0kvvrfpqtq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
